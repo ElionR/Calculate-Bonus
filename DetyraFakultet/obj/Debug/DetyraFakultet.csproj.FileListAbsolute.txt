@@ -1,0 +1,8 @@
+C:\Users\elion\Desktop\Programim\C#\DetyraFakultet\bin\Debug\DetyraFakultet.exe.config
+C:\Users\elion\Desktop\Programim\C#\DetyraFakultet\bin\Debug\DetyraFakultet.exe
+C:\Users\elion\Desktop\Programim\C#\DetyraFakultet\bin\Debug\DetyraFakultet.pdb
+C:\Users\elion\Desktop\Programim\C#\DetyraFakultet\obj\Debug\DetyraFakultet.csproj.AssemblyReference.cache
+C:\Users\elion\Desktop\Programim\C#\DetyraFakultet\obj\Debug\DetyraFakultet.csproj.SuggestedBindingRedirects.cache
+C:\Users\elion\Desktop\Programim\C#\DetyraFakultet\obj\Debug\DetyraFakultet.csproj.CoreCompileInputs.cache
+C:\Users\elion\Desktop\Programim\C#\DetyraFakultet\obj\Debug\DetyraFakultet.exe
+C:\Users\elion\Desktop\Programim\C#\DetyraFakultet\obj\Debug\DetyraFakultet.pdb
