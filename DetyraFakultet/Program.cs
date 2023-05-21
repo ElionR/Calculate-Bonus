@@ -7,7 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace DetyraFakultet
-{                                           //DETYRA 2 Nga Elion Rexhepi dhe Vendim Hyseni
+{                                           
     internal class Program
     {
         class Employee
